@@ -1,16 +1,16 @@
 body {
-  background-image: url(https://m.economictimes.com/thumb/msid-103273405,width-2121,height-1413,resizemode-4,imgsize-289970/canada.jpg);
+  background-image: url(https://i.natgeofe.com/n/04505c35-858b-4e95-a1a7-d72e5418b7fc/steep-karst-cliffs-of-el-nido-in-palawan.jpg?w=2880&h=1440);
+  background-size: cover;
+  font-family: Poppins, sans-serif;
+  color: white;
 }
 
 .black-box {
   width: 325px;
   height: 325px;
-  background-color: black;
-  margin: auto;
-  margin-top: 50px;
+  margin: 50px auto 20px auto;
   text-align: center;
-  padding: 100px;
-
+  background-color: black;
 }
 
 .flag-image {
@@ -19,15 +19,12 @@ body {
   border-radius: 50%;
 }
 
-h2,p {
-  font-family: Poppins, sans-serif;
-  color: white;
+h2 {
   padding-top: 15px;
 }
 
-.search {
+.search-bar {
+  margin: auto;
   text-align: center;
-  padding: 50px;
-  align-items: center;
+  margin-top: 15px;
 }
-
