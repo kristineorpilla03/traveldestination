@@ -1,0 +1,33 @@
+body {
+  background-image: url(https://m.economictimes.com/thumb/msid-103273405,width-2121,height-1413,resizemode-4,imgsize-289970/canada.jpg);
+}
+
+.black-box {
+  width: 325px;
+  height: 325px;
+  background-color: black;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+  padding: 100px;
+
+}
+
+.flag-image {
+  margin-top: 40px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+h2,p {
+  font-family: Poppins, sans-serif;
+  color: white;
+  padding-top: 15px;
+}
+
+.search {
+  text-align: center;
+  padding: 50px;
+  align-items: center;
+}
+
